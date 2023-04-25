@@ -1,3 +1,23 @@
+## Getting started
+
+### Prerequisites
+
+To run this project, you'll need to have Node.js, npm and php installed on your machine.
+
+## Backend
+1. Navigate to the project directory: `cd backend`
+2. In the terminal run `php -S localhost:8888` make sure it runs on the background and `port 8888`
+
+## Frontend
+
+1. Navigate to the project directory: `cd frontend`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm run dev`
+
+## Author
+- Burak Yesilyurt - [GitHub](https://github.com/burakyesilyurt)
+#
+
 Hello dear web portal dev prospect!
 
 This repository is a playground for your submission which should use PHP in the backend and HTML/JS in the frontend.
