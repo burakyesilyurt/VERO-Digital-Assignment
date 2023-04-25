@@ -1,3 +1,11 @@
+## Preview
+### Frontend
+![frontend](https://user-images.githubusercontent.com/76653369/234386190-64f6e731-962c-4d01-bc04-2624fd9aa713.gif)
+
+### Backend
+![backend](https://user-images.githubusercontent.com/76653369/234386234-93d8329f-1d1f-4dd5-9bf6-cc4db3a7f7f6.gif)
+
+
 ## Getting started
 
 ### Prerequisites
